@@ -1,0 +1,32 @@
+{
+    "status":"ok",
+    "totalResults":2,
+    "articles":[
+       {
+          "source":{
+             "id":null,
+             "name":"CBS Sports"
+          },
+          "author":"",
+          "title":"2023 March Madness predictions: NCAA bracket expert picks against the spread, odds in Thursday's Round 1 games - CBS Sports",
+          "description":"A closer look at the first round games on Thursday's slate of the NCAA Tournament",
+          "url":"https://www.cbssports.com/college-basketball/news/2023-march-madness-predictions-ncaa-bracket-expert-picks-against-the-spread-odds-in-thursdays-round-1-games/",
+          "urlToImage":"https://sportshub.cbsistatic.com/i/r/2023/03/15/cbd53c77-9236-4cf2-808c-fa49ad715551/thumbnail/1200x675/a256a96c39a72904ec1d3198e75a50fa/kyle-filipowski-duke-blue-usatsi.png",
+          "publishedAt":"2023-03-16T05:01:00Z",
+          "content":"Technically, the 2023 NCAA Tournament began Tuesday with the First Four, but the real mayhem of March gets going Thursday and Friday as first-round action takes place across the country. Between the … [+6462 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"Yahoo Entertainment"
+          },
+          "author":"Charles Robinson",
+          "title":"Aaron Rodgers to the New York Jets and NFL free agency takeaways - Yahoo Sports",
+          "description":"Charles Robinson is joined by Charles McDonald and Jori Epstein to discuss the latest news around NFL free agency, including Green Bay Packers QB Aaron...",
+          "url":"https://sports.yahoo.com/aaron-rodgers-to-the-new-york-jets-and-nfl-free-agency-takeaways-030414816.html",
+          "urlToImage":"https://s.yimg.com/ny/api/res/1.2/V_isMTSkhZ36Bztd2Ss.9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/bb8d0f80-c374-11ed-8ecd-ef7d0fa8bd08",
+          "publishedAt":"2023-03-16T03:08:23Z",
+          "content":"Charles Robinson is joined by Charles McDonald and Jori Epstein to discuss the latest news around NFL free agency, including Green Bay Packers QB Aaron Rodgers' statement that he intends to play for … [+2572 chars]"
+       }
+    ]
+ }
